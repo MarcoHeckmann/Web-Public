@@ -14,6 +14,8 @@ I am currently working with the following technologies:
 ## 📂 Projects Overview
 
 | Project Name | Description | Tech Used |
+| :--- | :--- | :--- |
+| Simple Login-Page | A simple Login-Page | HTML / CSS |
 
 ## 🚀 How to use
 
